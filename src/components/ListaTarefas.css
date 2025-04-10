@@ -1,0 +1,28 @@
+#div {
+    border: 2px solid #000;
+    border-radius: 25px;
+    background-color: #BA55D3;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    width: calc(50% -1);
+    position: fixed;
+    left: 25%;
+    top: 35%;
+    height: 300px;
+    width: 600px;
+}
+#titul {
+    position: absolute;
+    top: 15%;
+    
+}
+
+#addTarefa {
+    /* height: 10px; */
+    font-size: 8px;
+    margin: 4px;
+    text-align: space-between;
+    justify-content: space-between;
+    
+}
