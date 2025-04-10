@@ -1,12 +1,10 @@
-# React + Vite
+se o gitbash não estiver configurado, realize os comandos:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+git config --global user.name "username"
+git config user.email "seuemail@exemplo.com"
 
-Currently, two official plugins are available:
+copie o link do projeto e realize o comando:
+git clone "link"
+//para copiar o link,digite ctrl+shift+insert
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Esse projeto é para realizar uma lista de tarefas. Você pode digitar e adicionar novas tarefas, assim como excluir as que não quer mais.
